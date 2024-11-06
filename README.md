@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Tesla.com Homepagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/Home_pagina_tesla.PNG" width="375px" alt="De home pagina van Tesla">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Tesla.com Powerwall pagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/Powerwall_pagina_tesla.PNG" width="375px" alt="Powerwall pagina van Tesla">
  
 </details>
 
@@ -68,7 +68,7 @@ Ik begon de WCAG-test door de screenreader in te schakelen. In het begin had ik 
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/Schets_ontleding_website.png" width="375px" alt="breakdown van de hele pagina als schets">
   Ik heb de breakdown schets uitgetekent, want ik vind het dan makkelijker en overzichtelijker om te begrijpen wat elk deel van de website inhoudt. Dus hierboven zie je mijn getekende break down schets
 
 

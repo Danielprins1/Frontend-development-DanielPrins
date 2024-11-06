@@ -122,6 +122,12 @@ Ik begon de WCAG-test door de screenreader in te schakelen. In het begin had ik 
 
 <details>
 
+ <img src="images/WCAG1.HEIC" width="375px" alt="1e pagina WCAG-test">
+ <img src="images/WCAG2.HEIC" width="375px" alt="2e pagina WCAG-test">
+ <img src="images/WCAG3.HEIC" width="375px" alt="3e pagina WCAG-test">
+ <img src="images/WCAG4.HEIC" width="375px" alt="4e pagina WCAG-test">
+ <img src="images/WCAG5.HEIC" width="375px" alt="5e pagina WCAG-test">
+
   ### Bevindingen
   - Contrast heb ik verbeterd
   - Ik heb meer nagedacht over een overzichtelijke screenplay

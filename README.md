@@ -166,17 +166,17 @@ Ik begon de WCAG-test door de screenreader in te schakelen. In het begin had ik 
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="images/Tesla_nieuwe_home.png" width="375px" alt="uitomst opdracht homepagina">
 Ik ben tevreden, maar niet volledig blij met het eindresultaat. Ik denk dat ik vanaf het begin veel meer tijd had moeten steken in het proces. Vaak denk ik dat het wel goedkomt, maar op een gegeven moment blijkt dat toch niet het geval te zijn, en dan zit ik met de gevolgen. Dat was hier zeker het geval. Het is me gewoon niet gelukt om alles voor week 5 af te krijgen. Nu, tijdens de herkansing, ben ik echt hard aan de slag gegaan en ben daar wel tevreden over. Maar als ik terugkijk op mijn leerproces, weet ik dat het beter had gekund. Toch ben ik echt blij met hoe mijn website werkt en eruitziet.
 
   ### Dit ging goed/Heb ik geleerd: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="images/Css_foto.png" width="375px" alt="Mijn css code waar ik trots op mag zijn">
 Wat ik heb geleerd, is echt ontzettend veel. Ik ben misschien geen meester in CSS, maar ik heb zeker grote stappen gezet. Waar ik eerst elke keer weer flexbox moest opzoeken, kan ik nu in één keer zeggen waar ik iets wil plaatsen, zonder het internet te raadplegen. Ik vind wel dat ik trots mag zijn, maar ik blijf ook kritisch op mezelf. Dit vak heeft me echt geleerd dat het niet altijd vanzelf goedkomt en dat je alles zelf in handen hebt. Ik had eerst niks ingeleverd, dus helaas niet gehaald, maar dat betekent ook dat ik de enige ben die het kan veranderen. Daarom heb ik mijn uiterste best gedaan om er toch iets van te maken.
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="images/Tesla_slecht.png" width="375px" alt="dit is me helaas niet gelukt">
   Er blijven constant dingen die ik zou willen verbeteren of mooier had willen maken. Bijvoorbeeld dat het me maar niet lukte om het Tesla-logo goed in beeld te krijgen, of dat de H1 bovenaan ineens verdwijnt op mobiel. Ik denk ook dat als ik eerder om hulp had gevraagd of gewoon eerder was begonnen, ik het echt veel toffer had kunnen maken.
 </details>
 
